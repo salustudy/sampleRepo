@@ -5,7 +5,7 @@
   <groupId>sampleapp</groupId>
   <artifactId>com.salamat.test</artifactId>
   <packaging>war</packaging>
-  <version>1.0.CR-SNAPSHOT</version>
+  <version>1.0.CR1</version>
   <name>com.salamat.test Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
